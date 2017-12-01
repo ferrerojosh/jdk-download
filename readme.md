@@ -1,5 +1,10 @@
 # jdk-download
 
+[![Travis Build Status](https://travis-ci.org/ferrerojosh/jdk-download.svg?branch=master)](https://travis-ci.org/ferrerojosh/jdk-download)
+[![Build status](https://ci.appveyor.com/api/projects/status/xbgrnmttyqgc9mqm/branch/master?svg=true)](https://ci.appveyor.com/project/ferrerojosh/jdk-download/branch/master)
+
+[![NPM](https://nodei.co/npm/jdk-download.png?downloads=true)](https://www.npmjs.com/package/jdk-download)
+
 Downloads an [OpenJDK](https://github.com/ojdkbuild/ojdkbuild) release zip from GitHub.
 
 ### Usage
